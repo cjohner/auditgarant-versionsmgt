@@ -12,4 +12,9 @@ Diese VA ist für alle Entwicklungsprojekte an allen unseren Standorten anzuwend
 
 ### Adressaten 
 
-Diese VA wendet sich an ....
+Diese VA wendet sich an die folgenden Rollen
+
+- Entwicklungsleiter/in
+- Programmierer/innen
+- Systemarchitekten / Systemarchitektinnen
+
