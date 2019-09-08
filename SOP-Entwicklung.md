@@ -18,3 +18,6 @@ Diese VA wendet sich an die folgenden Rollen
 - Programmierer/innen
 - Systemarchitekten / Systemarchitektinnen
 
+### Process Owner
+
+Der "Process Owner" dieser VA ist der/die **Entwicklungsleiter/in**.
